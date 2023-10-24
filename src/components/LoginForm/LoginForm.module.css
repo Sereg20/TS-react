@@ -1,0 +1,20 @@
+.form {
+    padding: 20px 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    box-shadow: 0px 0px 10px 1px black;
+    width: 40%;
+}
+
+.form input {
+    margin-bottom: 20px;
+}
+
+.changeModeSection {
+    margin-top: 20px;
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+}

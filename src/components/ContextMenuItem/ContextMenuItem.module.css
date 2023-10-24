@@ -1,0 +1,11 @@
+.item {
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    cursor: pointer;
+}
+
+.item:hover {
+    background-color: rgb(203, 203, 203);
+}
